@@ -16,3 +16,4 @@ Pour commencer à développer, il faut copier config.php.dist vers config.php et
 5. git commit -m  "Mon commit" -> Ajout un commit avec un commentaire
 6. git push origin master -> Je synchronise mon dépôt local avec le dépôt distant.
 7. git clone URL -> Je récupère le projet 
+8. git pull ou git fetch + git merge pour récupérer les derniers commits.
